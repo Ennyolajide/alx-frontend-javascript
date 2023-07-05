@@ -11,5 +11,5 @@ export default function cleanSet(set, startString) {
       text = array.join('-');
     }
     return text;
-  }
+}
   
